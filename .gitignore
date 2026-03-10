@@ -1,0 +1,8 @@
+# PSoC Creator Folders to ignore
+Debug/
+Release/
+Export/
+codegentemp/
+Generated_Source/
+*.cywrk.*
+*.cyprj.*
