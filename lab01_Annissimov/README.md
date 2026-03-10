@@ -22,7 +22,7 @@ PSOC creator and terminal programs are succesfully installed.
 - **Schematic:** Used installing instructions provided in Laboratory Work №1.
 
 ### Demonstration
-See screenshots from my laptop with installed software.
+Screenshots from my laptop with installed software.
 
 ### Screenshots
 ![Lab Execution](path/to/your/screenshot.png)
