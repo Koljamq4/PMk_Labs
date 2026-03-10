@@ -1,9 +1,10 @@
 # Microcontroller Programming
 ## Laboratory Work №1
 
-* **Student:** Nikolai Anissimov
+* **Student:** Nikolai Anissimov 
 * **Topic:** Installing tools and creating, debugging, and running projects in the integrated PSoC® CreatorTM environment. Using UART to output information
-
+* **Date:** March 2026
+* 
 ## 1. Purpose
 [Write the purpose of the lab here as per the instructions cite: Source 111.JPG]
 
