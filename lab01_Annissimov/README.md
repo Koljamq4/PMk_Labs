@@ -7,7 +7,13 @@ Using UART to output information
 * **Date:** March 2026
   
 ## 1. Purpose
-[Write the purpose of the lab here as per the instructions cite: Source 111.JPG]
+To familiarize yourself with the functional capabilities of the PSoC® CreatorTM 4.4
+integrated environment, the PuTTY or TeraTerm terminal program, and the logic
+analyzer and its Logic software interface; to learn how to create, debug, and execute
+projects using the PSoC® CreatorTM integrated environment tools; to familiarize
+yourself with the principles of the UART interface, learn how to configure it using
+the PSoC system-on-chip for outputting information, and verify data transfer
+between PSoC and a computer.
 
 ## 2. Results of the Task
 [Describe what you achieved and how the code works.]
