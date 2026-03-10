@@ -16,7 +16,7 @@ the PSoC system-on-chip for outputting information, and verify data transfer
 between PSoC and a computer.
 
 ## 2. Results of the Tasks
-## 2.1 Results of the Task 1
+## 2.1 Task 1
 PSOC creator and terminal programs are succesfully installed.
 
 ### Implementation
@@ -29,7 +29,7 @@ Desktop screenshot with installed software.
 ![Lab Execution](path/to/your/screenshot.png)
 *(Note: Upload your screenshots to the same folder and link them here cite: Source 111.JPG)*
 
-## 2.2 Results of the Tasks 2
+## 2.2 Task 2
 Creating the first project
 
 ### Implementation
@@ -42,7 +42,7 @@ Desktop screenshot with created project.
 ![Lab Execution](path/to/your/screenshot.png)
 *(Note: Upload your screenshots to the same folder and link them here cite: Source 111.JPG)*
 
-## 2.3 Results of the Task 3
+## 2.3 Task 3
 Project modification
 
 ### Implementation
@@ -55,7 +55,7 @@ Desktop screenshot with modified project.
 ![Lab Execution](path/to/your/screenshot.png)
 *(Note: Upload your screenshots to the same folder and link them here cite: Source 111.JPG)*
 
-## 2.4 Results of the Task 4
+## 2.4 Task 4
 Working with code examples
 
 ### Implementation
@@ -68,7 +68,7 @@ Desktop screenshot with code example.
 ![Lab Execution](path/to/your/screenshot.png)
 *(Note: Upload your screenshots to the same folder and link them here cite: Source 111.JPG)*
 
-## 2.5 Results of the Task 5
+## 2.5 Task 5
 Independend tasks.
 
 ### Implementation
