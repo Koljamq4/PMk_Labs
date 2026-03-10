@@ -15,8 +15,14 @@ yourself with the principles of the UART interface, learn how to configure it us
 the PSoC system-on-chip for outputting information, and verify data transfer
 between PSoC and a computer.
 
-## 2. Results of the Task
-[Describe what you achieved and how the code works.]
+## 2. Results of the Task 1
+PSOC creator and terminal programs are succesfully installed.
+
+### Implementation
+- **Schematic:** Used installing instructions provided in Laboratory Work №1.
+
+### Demonstration
+See screenshots from my laptop with installed software.
 
 ### Screenshots
 ![Lab Execution](path/to/your/screenshot.png)
