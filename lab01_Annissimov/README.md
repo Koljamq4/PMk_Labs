@@ -20,7 +20,7 @@ between PSoC and a computer.
 Install Software: PSoC Creator IDE, Terminal Program PuTTY and Saleae Logic Software.
 
 ### Implementation
-- **Schematic:** Using instructions for software installation provided in the task document Laboratory Work №1.
+Using instructions for software installation provided in the task document Laboratory Work №1.
 
 ### Demonstration
 Desktop screenshot with installed software.
@@ -29,13 +29,17 @@ Desktop screenshot with installed software.
 ![Project Screenshot](images/Screenshot%201.jpg)
 
 ## 2.2 Task 2
-Creating the first project
+Creating the first project with microchip CY8C4245AXI-483.
 
 ### Implementation
-- **Schematic:** Using instructions for creating a file provided in the task document Laboratory Work №1.
+The project was successfully compiled in the PSoC Creator environment.
+
+The firmware reads the state of the button connected to pin P0[7].
+If the button is pressed, the LED connected to pin P1[6] turns on.
+If the button is released, the LED turns off.
 
 ### Demonstration
-Desktop screenshot with created project.
+Screenshot with configurated pins and screenshot with code writen in the file main.c
 
 ### Screenshots
 ![Lab Execution](path/to/your/screenshot.png)
