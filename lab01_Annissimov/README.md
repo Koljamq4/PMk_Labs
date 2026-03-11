@@ -26,8 +26,7 @@ Install Software: PSoC Creator IDE, Terminal Program PuTTY and Saleae Logic Soft
 Desktop screenshot with installed software.
 
 ### Screenshots
-![Lab Execution](path/to/your/screenshot.png)
-*(Note: Upload your screenshots to the same folder and link them here cite: Source 111.JPG)*
+https://github.com/Koljamq4/PMk_Labs/blob/main/lab01_Annissimov/images/Screenshot%201.jpg
 
 ## 2.2 Task 2
 Creating the first project
@@ -39,7 +38,8 @@ Creating the first project
 Desktop screenshot with created project.
 
 ### Screenshots
-https://github.com/Koljamq4/PMk_Labs/blob/main/lab01_Annissimov/images/Screenshot%201.jpg
+![Lab Execution](path/to/your/screenshot.png)
+*(Note: Upload your screenshots to the same folder and link them here cite: Source 111.JPG)*
 
 ## 2.3 Task 3
 Project modification
