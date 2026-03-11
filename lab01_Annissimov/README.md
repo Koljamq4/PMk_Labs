@@ -61,8 +61,14 @@ PuTTY terminal software was configured to receive UART data from the PSoC microc
 Screenshot with configurated pins, screenshot with code writen in the file main.c and screenshot from PuTTY terminal.
 
 ### Screenshots
-![Lab Execution](path/to/your/screenshot.png)
-*(Note: Upload your screenshots to the same folder and link them here cite: Source 111.JPG)*
+### Pin Configuration
+![Pin Configuration](images/Screenshot%204.jpg)
+
+### Program Code
+![Program Code](images/Screenshot%205.jpg)
+
+### PuTTY terminal
+![PuTTY terminal](images/Screenshot%206.jpg)
 
 ## 2.4 Task 4
 Working with code examples
