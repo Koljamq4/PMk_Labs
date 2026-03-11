@@ -26,6 +26,7 @@ Using instructions for software installation provided in the task document Labor
 Desktop screenshot with installed software.
 
 ### Screenshots
+### All three programs installed.
 ![Project Screenshot](images/Screenshot%201.jpg)
 
 ## 2.2 Task 2
@@ -42,11 +43,11 @@ If the button is released, the LED turns off.
 Screenshot with configurated pins and screenshot with code writen in the file main.c
 
 ### Screenshots
-## Pin Configuration
+### Pin Configuration
 ![Pin Configuration](images/Screenshot%202.jpg)
 
-## Pin Configuration
-![Program Code](images/Screenshot%202.jpg)
+### Program Code
+![Program Code](images/Screenshot%203.jpg)
 
 ## 2.3 Task 3
 Project modification
