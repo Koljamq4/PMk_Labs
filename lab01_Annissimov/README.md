@@ -40,7 +40,7 @@ If the button is pressed, the LED connected to pin P1[6] turns on.
 If the button is released, the LED turns off.
 
 ### Demonstration
-Screenshot with configurated pins and screenshot with code writen in the file main.c
+Screenshot with configurated pins and screenshot with code written in the file main.c
 
 ### Screenshots
 ### Pin Configuration
