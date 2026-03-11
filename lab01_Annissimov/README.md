@@ -42,8 +42,11 @@ If the button is released, the LED turns off.
 Screenshot with configurated pins and screenshot with code writen in the file main.c
 
 ### Screenshots
-![Lab Execution](path/to/your/screenshot.png)
-*(Note: Upload your screenshots to the same folder and link them here cite: Source 111.JPG)*
+## Pin Configuration
+![Pin Configuration](images/Screenshot%202.jpg)
+
+## Pin Configuration
+![Program Code](images/Screenshot%202.jpg)
 
 ## 2.3 Task 3
 Project modification
