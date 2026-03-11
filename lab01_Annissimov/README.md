@@ -39,8 +39,7 @@ Creating the first project
 Desktop screenshot with created project.
 
 ### Screenshots
-![Lab Execution](path/to/your/screenshot.png)
-*(Note: Upload your screenshots to the same folder and link them here cite: Source 111.JPG)*
+https://github.com/Koljamq4/PMk_Labs/blob/main/lab01_Annissimov/images/Screenshot%201.jpg
 
 ## 2.3 Task 3
 Project modification
