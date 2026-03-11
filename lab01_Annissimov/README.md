@@ -17,7 +17,7 @@ between PSoC and a computer.
 
 ## 2. Results of the Tasks
 ## 2.1 Task 1
-PSOC creator and terminal programs are succesfully installed.
+Install Software: PSoC Creator IDE, Terminal Program PuTTY and Saleae Logic Software.
 
 ### Implementation
 - **Schematic:** Using instructions for software installation provided in the task document Laboratory Work №1.
