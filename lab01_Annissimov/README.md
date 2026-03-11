@@ -50,13 +50,15 @@ Screenshot with configurated pins and screenshot with code writen in the file ma
 ![Program Code](images/Screenshot%203.jpg)
 
 ## 2.3 Task 3
-Project modification
+Project modification.
 
 ### Implementation
-- **Schematic:** Using instructions to modify project provided in the task document Laboratory Work №1.
+I modified project adding LED_R and LED_G also renamed LED to LED_B. Than I changed code in main.c because now I had 3 leds. After that I copied project and remamed it. In new project I added software transmit UART, configurated pins, written new code to file main.c and compiled program. 
+
+PuTTY terminal software was configured to receive UART data from the PSoC microcontroller.
 
 ### Demonstration
-Desktop screenshot with modified project.
+Screenshot with configurated pins, screenshot with code writen in the file main.c and screenshot from PuTTY terminal.
 
 ### Screenshots
 ![Lab Execution](path/to/your/screenshot.png)
@@ -69,7 +71,7 @@ Working with code examples
 - **Schematic:** Using instructions to work with code examples provided in the task document Laboratory Work №1.
 
 ### Demonstration
-Desktop screenshot with code example.
+XXXXX
 
 ### Screenshots
 ![Lab Execution](path/to/your/screenshot.png)
