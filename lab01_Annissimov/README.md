@@ -71,17 +71,16 @@ Screenshot with configurated pins, screenshot with code writen in the file main.
 ![PuTTY terminal](images/Screenshot%206.jpg)
 
 ## 2.4 Task 4
-Working with code examples
+Working with code examples.
 
 ### Implementation
-- **Schematic:** Using instructions to work with code examples provided in the task document Laboratory Work №1.
+The example project was successfully opened and compiled in PSoC Creator.
 
 ### Demonstration
-XXXXX
+Screenshot with opened and successfully builded project from PSoC Creator.
 
 ### Screenshots
-![Lab Execution](path/to/your/screenshot.png)
-*(Note: Upload your screenshots to the same folder and link them here cite: Source 111.JPG)*
+![PSoC Creator](images/Screenshot%207.jpg)
 
 ## 2.5 Task 5
 Independend tasks.
