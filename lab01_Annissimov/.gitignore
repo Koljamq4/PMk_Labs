@@ -1,8 +1,28 @@
-# PSoC Creator Folders to ignore
+# Build output folders
 Debug/
 Release/
-Export/
-codegentemp/
+CortexM*/
+ARM_GCC_*/
+
+# Generated source files
 Generated_Source/
+
+# PSoC Creator temporary files
 *.cywrk.*
 *.cyprj.*
+*.rpt
+*.log
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.tmp
+*.old
+
+# Editor files
+.vscode/
+.idea/
+*.swp
