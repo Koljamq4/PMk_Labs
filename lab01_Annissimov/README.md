@@ -116,9 +116,57 @@ Filled table:
 | Blue | 1 | 1 | 0 |
 | Black | 1 | 1 | 1 |
 
+## 2.5.3
+Modify code. 
+
+### Implementation
+Modifying code that the LED flashes differently depending on which button is 
+pressed). For variant 1 color white and yellow.
+
+### Demonstration
+Screenshot with opened and successfully builded code from PSoC Creator.
+
+### Screenshots
+![PSoC Creator](images/Screenshot%208.jpg)
 
 ## 3. Appendices (Code Listing)
-Only the code written by the student:
+Code from taks 5 part 3 (modified code that the LED flashes differently depending on which button is 
+pressed). For variant 1 color white and yellow.
 
-```c
-// Paste your C code here
+#include "project.h"
+
+int main(void)
+{
+    CyGlobalIntEnable;
+
+    for(;;)
+    {
+        if(Button_Read() == 0)   // button pressed
+        {
+            // WHITE
+            LED_R_Write(0);
+            LED_G_Write(0);
+            LED_B_Write(0);
+            CyDelay(500);
+
+            LED_R_Write(1);
+            LED_G_Write(1);
+            LED_B_Write(1);
+            CyDelay(500);
+        }
+        else   // button released
+        {
+            // YELLOW
+            LED_R_Write(0);
+            LED_G_Write(0);
+            LED_B_Write(1);
+            CyDelay(500);
+
+            LED_R_Write(1);
+            LED_G_Write(1);
+            LED_B_Write(1);
+            CyDelay(500);
+        }
+    }
+}
+
