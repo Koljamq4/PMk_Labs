@@ -127,7 +127,7 @@ pressed). For variant 1 color white and yellow.
 Screenshot with opened and successfully builded code from PSoC Creator.
 
 ### Screenshots
-![PSoC Creator](images/Screenshot%208.jpg)
+![PSoC Creator](images/Screenshot%209.jpg)
 
 ## 3. Appendices (Code Listing)
 Code from taks 5 part 3 (modified code that the LED flashes differently depending on which button is 
