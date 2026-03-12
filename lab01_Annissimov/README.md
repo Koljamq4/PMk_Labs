@@ -83,13 +83,15 @@ Screenshot with opened and successfully builded project from PSoC Creator.
 ![PSoC Creator](images/Screenshot%207.jpg)
 
 ## 2.5 Task 5
-Independend tasks.
+Independent tasks.
+## 2.5.1 
+Unify console output by adding First Name and Last Name to the code.
 
 ### Implementation
-- **Schematic:** 
+Adding first and last name to the code.
 
 ### Demonstration
-
+Screenshot with opened and successfully builded code from PSoC Creator.
 
 ### Screenshots
 ![Lab Execution](path/to/your/screenshot.png)
