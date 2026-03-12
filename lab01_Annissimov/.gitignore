@@ -1,28 +1,21 @@
-# Build output folders
-Debug/
-Release/
-CortexM*/
-ARM_GCC_*/
-
-# Generated source files
+# PSoC Creator generated folders
+CortexM0/
 Generated_Source/
+codegentemp/
+Export/
 
-# PSoC Creator temporary files
-*.cywrk.*
-*.cyprj.*
+# Build and rebuild logs
+BUILD
+REBUILD
+
+# Report files
 *.rpt
+*_timing*
+
+# Temporary / user files
+*.tmp
 *.log
 
-# Windows system files
+# OS files
 Thumbs.db
 desktop.ini
-
-# Backup files
-*.bak
-*.tmp
-*.old
-
-# Editor files
-.vscode/
-.idea/
-*.swp
