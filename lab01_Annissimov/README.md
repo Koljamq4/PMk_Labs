@@ -94,8 +94,10 @@ Adding first and last name to the code.
 Screenshot with opened and successfully builded code from PSoC Creator.
 
 ### Screenshots
-![Lab Execution](path/to/your/screenshot.png)
-*(Note: Upload your screenshots to the same folder and link them here cite: Source 111.JPG)*
+![PSoC Creator](images/Screenshot%208.jpg)
+
+## 2.5.2
+XXXX
 
 ## 3. Appendices (Code Listing)
 Only the code written by the student:
