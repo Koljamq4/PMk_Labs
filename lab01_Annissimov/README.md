@@ -97,7 +97,25 @@ Screenshot with opened and successfully builded code from PSoC Creator.
 ![PSoC Creator](images/Screenshot%208.jpg)
 
 ## 2.5.2
-XXXX
+Fill in the table taking into account the features of the PSoC® 4 Pioneer Kit. 
+
+### Implementation
+Filling table with rule: 0= LED On, 1= LED Off.
+
+### Demonstration
+Filled table:
+
+| Color | R | G | B |
+|------|---|---|---|
+| White | 0 | 0 | 0 |
+| Yellow | 0 | 0 | 1 |
+| Purple | 0 | 1 | 0 |
+| Red | 0 | 1 | 1 |
+| Cyan | 1 | 0 | 0 |
+| Green | 1 | 0 | 1 |
+| Blue | 1 | 1 | 0 |
+| Black | 1 | 1 | 1 |
+
 
 ## 3. Appendices (Code Listing)
 Only the code written by the student:
